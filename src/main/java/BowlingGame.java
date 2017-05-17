@@ -129,7 +129,6 @@ public class BowlingGame {
 				total=total+a[i].score;
 		}
 	}
-	System.out.println(total);        
-        return 0;
+        return total;
     }
 }
